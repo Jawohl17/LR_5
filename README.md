@@ -1,4 +1,4 @@
-# Laboratory Work No. 5
+# Laboratory Work №5
 
 **Discipline:** Operating Systems    
 
