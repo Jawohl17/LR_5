@@ -124,6 +124,4 @@ During the laboratory work, the basic commands for navigation and file managemen
 
 ---
 
-## Report for GitHub
 
-This report can be used to document the completed laboratory work on the GitHub platform. It is recommended to create a repository, add this file and other related files, and commit changes to save progress.
